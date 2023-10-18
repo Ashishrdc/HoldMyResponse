@@ -4,6 +4,66 @@
     "start": 1,
     "results": [
       {
+        "id": "NIidiD9g",
+        "name": "Heeriye (feat. Arijit Singh)",
+        "type": "",
+        "album": {
+          "id": "45664234",
+          "name": "Heeriye (feat. Arijit Singh)",
+          "url": "https://www.jiosaavn.com/album/heeriye-feat.-arijit-singh/ESDOfVN2cxY_"
+      },
+        "year": "2023",
+        "releaseDate": null,
+        "duration": "194",
+        "label": "Warner Music India",
+        "primaryArtists": "Dulquer Salmaan, Jasleen Royal, Arijit Singh",
+        "primaryArtistsId": "823817, 742789, 459320",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "20532333",
+        "language": "hindi",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/heeriye-feat.-arijit-singh/PiECVR10DlQ",
+        "copyright": "℗ 2023 Meri Marzi Pictures LLP under exclusive license to Warner Music India",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/022/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/022/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/022/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_320.mp4"
+          }
+        ]
+      },
+      {
         "id": "N3TtFtJY",
         "name": "Sawaar Loon",
         "type": "",
