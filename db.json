@@ -1,0 +1,68 @@
+{
+  "data": {
+    "total": 13,
+    "start": 1,
+    "results": [
+      {
+        "id": "N3TtFtJY",
+        "name": "Sawaar Loon",
+        "type": "",
+        "album": {
+          "id": "1141029",
+          "name": "Lootera",
+          "url": "https://www.jiosaavn.com/album/lootera/c1pfepzl6hU_"
+        },
+        "year": "2013",
+        "releaseDate": null,
+        "duration": "255",
+        "label": "",
+        "primaryArtists": "Amit Trivedi, Monali Thakur",
+        "primaryArtistsId": "457422, 461071",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "17915992",
+        "language": "hindi",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/sawaar-loon/Pls-RTJEfWo",
+        "copyright": "©  2013 ",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/048/Lootera-2013-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/048/Lootera-2013-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/048/Lootera-2013-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/048/c097b31793c3312e692140e05337cc91_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/048/c097b31793c3312e692140e05337cc91_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/048/c097b31793c3312e692140e05337cc91_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/048/c097b31793c3312e692140e05337cc91_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/048/c097b31793c3312e692140e05337cc91_320.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}
